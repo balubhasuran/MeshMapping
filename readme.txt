@@ -1,0 +1,2 @@
+balu_mapping.py gives you the strings we're interested in finding MeSH mappings for. The comments should be informative. 
+Inside behind the scenes is the jupyter notebook used to build the list you'll be using in balu_mapping.py. It is included for "version control" of sorts, but you don't need anything in there.
